@@ -2,6 +2,8 @@
 
 # Rugby (server)
 
+> ⚠️ **This is the legacy Ruby version of this repo.** The updated version is available at https://github.com/superhighfives/rugby-server.
+
 The Ruby-powered server for the music video for Rugby.
 
 ☝️ Rugby includes a separate client that handles the front end:
